@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbiolaPaul
-- 👀 I’m interested in research, Data Analysis, Data Science, Big Data, Machine Learning...
-- 🌱 I’m currently learning Data Analysis with Python Language and conducting a research on emotion recognition in conversation
-- 💞️ I’m looking to collaborate on Application of Artificial Intelligence to recognise emotion in conversation
+- 👀 I’m interested in research, Data Analysis, Data Science, Database, Big Data, Machine Learning, Artificial Intelligence, Information System...
+- 🌱 I’m currently learning Data Analysis with Python Language at Udacity Nanodegree and conducting a research on multimodal emotion recognition in conversation
+- 💞️ I’m looking to collaborate on Application of Artificial Intelligence
 - 📫 How to reach me - adjicheboutouabiola@gmail.com
 
 <!---
